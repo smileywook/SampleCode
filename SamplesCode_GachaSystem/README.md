@@ -39,22 +39,31 @@
 
 ## Folder Structure
 Portfolio_Samples/
+
 ├── GachaSystem/
+
 │ ├── GachaU.h
+
 │ ├── GachaUI.cpp
-│ └── README.md
+
 ├── VideoPlayerSystem/
+
 │ ├── VideoPlayer.h
+
 │ ├── VideoPlayer_Core.cpp
+
 │ ├── VideoPlayer_SubtitleSystem.cpp
-│ └── README.md
+
 ├── RewardSystem/
+
 │ ├── ServerRewardSystem_Gacha.cpp
+
 │ ├── ServerRewardSystem_Inventory.cpp
-│ └── README.md
+
 └── README.md
 
 ---
 
 ## Notes
+
 - 포트폴리오용으로 리소스/서버 의존성은 제거 또는 더미 처리되어 있을 수 있습니다.
